@@ -1,12 +1,12 @@
 <div align="center">
-  <img width="680" alt="Rock Studio banner" src="REPLACE_WITH_BANNER_URL" />
+  <img width="680" alt="DRH - Rock Studio banner" src="https://github.com/user-attachments/assets/5c7dd7bd-0a9d-4574-b958-0349e73fbcba" />
 </div>
 
 <div align="center">
 
-# Rock Studio | Support Hub
+# DRH - Rock Studio | Support Hub
 
-Public technical support for **Rock Studio**.
+Public technical support for **DRH - Rock Studio**.
 
 <table>
   <tr>
@@ -23,7 +23,7 @@ Public technical support for **Rock Studio**.
 
 <div align="center">
 
-This repository is the central public support hub for **Rock Studio** while development continues.
+This repository is the central public support hub for **DRH - Rock Studio** while development continues.
 
 </div>
 
@@ -56,7 +56,7 @@ This repository is the central public support hub for **Rock Studio** while deve
 
 ## Supported scope
 
-- **Add-on:** Rock Studio
+- **Add-on:** DRH - Rock Studio
 - **Minimum Blender version:** 4.2.0
 
 ## Before you post
