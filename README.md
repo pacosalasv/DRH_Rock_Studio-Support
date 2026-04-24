@@ -12,7 +12,7 @@
 
 **A Blender utility for generating procedural rock assets as Mesh objects or Geometry Nodes setups, with predefined 2D and 3D placement arrangements.**
 
-![Status](https://img.shields.io/badge/status-in%20development-1E5BFF?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-in%20development-7C3AED?style=for-the-badge)
 ![Version](https://img.shields.io/badge/version-1.0.0-00B7FF?style=for-the-badge)
 ![Blender](https://img.shields.io/badge/blender-4.2%2B-0B1F4D?style=for-the-badge)
 ![Platforms](https://img.shields.io/badge/platforms-Windows%20%7C%20macOS%20%7C%20Linux-EAF2FF?style=for-the-badge&labelColor=0B1F4D&color=EAF2FF)
