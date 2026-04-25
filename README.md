@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="680" alt="DRH - Rock Studio banner" src="https://github.com/user-attachments/assets/5c7dd7bd-0a9d-4574-b958-0349e73fbcba" />
+  <img width="680" alt="DRH - Rock Studio banner" src="docs/media/Logo.png" />
 </div>
 
 <br>
@@ -81,11 +81,17 @@ It is intended for environment artists, asset creators, game artists, procedural
 
 Instead of modeling every rock manually from scratch or arranging assets one by one, DRH - Rock Studio helps turn rock creation and placement into a faster, more adjustable, and repeatable workflow.
 
+## Media preview
+
+<!--
+<div align="center">
+  <img width="920" alt="DRH - Color Ramp Studio feature preview showing palette generation, native editable conversion, curated presets, and precision editing tools" src="docs/media/Featured_Image.png" />
+</div>
+-->
+
 <!--
 
 ---
-
-## Media preview
 
 ### Demo video
 
@@ -113,21 +119,30 @@ Recommended size: 1280x720 or 960x540.
 </div>
 -->
 
-<!--
-### Screenshots
+### Early Screenshots
 
 <div align="center">
 
-| Rock Generation | Mesh / Geometry Nodes Output |
+| Rock Generation and Placement | Shape and Surface Controls |
 |---|---|
-| <img width="420" alt="DRH - Rock Studio rock generation" src="docs/media/screenshot-generation.png" /> | <img width="420" alt="DRH - Rock Studio mesh and geometry nodes output" src="docs/media/screenshot-output-modes.png" /> |
-
-| 2D Placement Arrangements | 3D Placement Arrangements |
-|---|---|
-| <img width="420" alt="DRH - Rock Studio 2D placement arrangements" src="docs/media/screenshot-2d-arrangements.png" /> | <img width="420" alt="DRH - Rock Studio 3D placement arrangements" src="docs/media/screenshot-3d-arrangements.png" /> |
+| <img height="420" alt="Rock Generation and Placement" src="docs/media/ScreenShot_01.png" /> | <img height="420" alt="Shape and Surface Controls" src="docs/media/ScreenShot_02.png" /> |
 
 </div>
--->
+
+<details>
+
+  <summary><strong>More Screenshots...</strong></summary>
+
+<div align="center">
+
+| Rock Studio Settings | Generated Rock Pattern Preview |
+|---|---|
+| <img height="420" alt="Rock Studio Settings" src="docs/media/ScreenShot_03.png" /> | <img height="420" alt="Generated Rock Pattern Preview" src="docs/media/ScreenShot_04.png" /> |
+
+</div>
+
+</details>
+
 
 <!--
 ### Visual preview
@@ -173,18 +188,16 @@ Use it to:
 
 ---
 
-## Key features
+### Key Features
 
-- Generate procedural rock assets inside Blender
-- Create rocks as Mesh objects
-- Create rocks as Geometry Nodes setups
-- Generate rock shape variations
-- Use predefined 2D placement arrangements
-- Use predefined 3D placement arrangements
-- Support faster environment asset production
-- Build reusable rock assets for scenes and kitbashing
-- Help reduce manual modeling and placement time
-- Support creative iteration for natural forms and rock layouts
+- Generate procedural rocks as Mesh or Geometry Nodes assets
+- Massive placement system with 2D, 3D, and on-surface scatter workflows
+- Ready-made rock presets for rapid environment production
+- Procedural variation controls for more natural and less repetitive sets
+- Surface scatter and drop tools for faster scene dressing
+- Auto Apply and manual Apply Changes workflow for heavy rebuild safety
+- User preset storage on disk and inside the blend file
+- LOD and preview density controls to balance speed and detail
 
 ---
 
@@ -193,93 +206,151 @@ Use it to:
 
 ## Full feature list
 
-### Rock generation
+### Generation Modes
 
-- Create procedural rock assets directly inside Blender
-- Generate rock-like forms for natural scenes
-- Build reusable rock objects for environments, props, and terrain decoration
-- Support faster asset creation without starting every rock from scratch
-- Help users create multiple rock ideas for scene building
+- Mesh generation mode
+- Geometry Nodes generation mode
+- Preview density: Full
+- Preview density: Draft
+- Preview density: Ultra Draft
+- First-rock generation workflow
+- Batch regeneration workflow
 
-### Mesh output
+### Rock Presets & Profiles
 
-- Generate rocks as Mesh objects
-- Create editable rock geometry for standard Blender workflows
-- Support workflows where users need direct mesh editing
-- Help prepare rock assets for kitbashing, scene dressing, export, or asset libraries
-- Provide a familiar output type for users who prefer traditional mesh-based assets
+- Preset: Asteroid
+- Preset: Basalt Rock
+- Preset: Boulder
+- Preset: Chalk
+- Preset: Cliff
+- Preset: Cliff Formation
+- Preset: Craggy
+- Preset: Deformed Conglomerate
+- Preset: Ground Scatter
+- Preset: Hero Rock
+- Preset: Ice
+- Preset: Low Poly
+- Preset: Marble
+- Preset: Monolith
+- Preset: Obsidian
+- Preset: Pebble
+- Preset: Pumice
+- Preset: Quarry Set
+- Preset: Reef Cluster
+- Preset: Reef Outcrop
+- Preset: River Rock
+- Preset: Sandstone
+- Preset: Sea Stack
+- Preset: Shard
+- Preset: Shelly Limestone
+- Preset: Slate
+- Preset: Smooth Boulder
+- Variation profile: Hero
+- Variation profile: Debris
+- Variation profile: Cliff
+- Variation profile: Shard
+- Variation profile: Pebble
+- Randomize shape
+- Randomize placement
+- Randomize surface
+- Seed history and randomization workflow
 
-### Geometry Nodes output
+### Base Shapes & Surface Style
 
-- Generate rocks as Geometry Nodes setups
-- Support procedural and non-destructive rock workflows
-- Allow users to keep rock generation more adjustable when needed
-- Support node-based experimentation and iteration
-- Help technical artists and procedural users build more flexible rock setups
+- Base shape: Cone
+- Base shape: Cube
+- Base shape: Cylinder
+- Base shape: Icosphere
+- Base shape: Octahedron
+- Base shape: Quad Sphere
+- Base shape: Tetrahedron
+- Base shape: UV Sphere
+- Material style: Basalt
+- Material style: Strata
+- Material style: Moss
+- Material style: Ice
+- Material style: Volcanic
+- LOD: Low
+- LOD: Balanced
+- LOD: High
+- LOD: Ultra
 
-### Shape variation
+### Placement & Scatter
 
-- Generate different rock forms and silhouettes
-- Explore variations for natural-looking asset sets
-- Adjust rock appearance for different visual styles
-- Support repeated creation of unique-looking rocks
-- Help avoid duplicated or overly uniform environment assets
+- Scatter mode: Pattern
+- Scatter mode: On Surface
+- 2D pattern: Random
+- 2D pattern: Arc
+- 2D pattern: Circle
+- 2D pattern: Cluster
+- 2D pattern: Diamond
+- 2D pattern: Ellipse
+- 2D pattern: Fractal
+- 2D pattern: Grid
+- 2D pattern: Hexagonal
+- 2D pattern: Honeycomb Trim
+- 2D pattern: Lemniscate
+- 2D pattern: Linear
+- 2D pattern: Multi Ring
+- 2D pattern: Poisson Disk
+- 2D pattern: Progressive Rotation
+- 2D pattern: Progressive Scale
+- 2D pattern: Radial
+- 2D pattern: Random Grid
+- 2D pattern: Rosette
+- 2D pattern: Spiral
+- 2D pattern: Star
+- 2D pattern: Triangular
+- 2D pattern: Wave
+- 2D pattern: Zigzag
+- 3D pattern: Cluster 3D
+- 3D pattern: Cone 3D
+- 3D pattern: Cylinder 3D
+- 3D pattern: Dome 3D
+- 3D pattern: Ellipsoid 3D
+- 3D pattern: Explosion 3D
+- 3D pattern: Grid 3D
+- 3D pattern: Helix
+- 3D pattern: Layered Sphere 3D
+- 3D pattern: Lissajous 3D
+- 3D pattern: Prism 3D
+- 3D pattern: Pyramid 3D
+- 3D pattern: Shell 3D
+- 3D pattern: Spheric 3D
+- 3D pattern: Stacked Rings 3D
+- 3D pattern: Torus 3D
+- 3D pattern: Vortex 3D
+- Use active surface target
+- Drop active object to ground
+- Drop selected objects to ground
 
-### 2D placement arrangements
+### Workflow Controls
 
-- Use predefined 2D placement layouts
-- Arrange rocks across flat or surface-oriented compositions
-- Support scene dressing, terrain decoration, and layout blocking
-- Help users create organized rock clusters without placing every object manually
-- Support faster environment layout workflows
+- Apply Changes
+- Auto Apply Changes toggle
+- Regenerate Batch
+- Reset active defaults
+- Reset scene defaults
+- Reset Geometry Nodes parameters
 
-### 3D placement arrangements
+### Presets & Storage
 
-- Use predefined 3D placement layouts
-- Build volumetric rock arrangements and clustered formations
-- Support stacked, grouped, or spatial rock compositions
-- Help create more natural-looking rock groupings
-- Reduce manual placement work for complex arrangements
+- Save user presets
+- Load user presets
+- Delete user presets
+- Open preset directory
+- Export preset pack
+- Store presets on disk
+- Store presets inside the blend file
 
-### Procedural workflow
+### UI & Integration
 
-- Support procedural-style rock creation workflows
-- Help users iterate on form, layout, and appearance
-- Reduce repetitive manual modeling and placement steps
-- Make rock creation more adjustable and repeatable
-- Support fast exploration during environment layout and asset development
-
-### Environment asset use
-
-- Create assets suitable for natural environments
-- Support scene dressing, terrain detail, and prop creation
-- Help build rock libraries for renders, kits, and asset packs
-- Support artists creating outdoor, fantasy, sci-fi, stylized, or realistic environments
-
-### Asset creation support
-
-- Help create rock props for Blender scenes
-- Support kitbashing workflows
-- Assist users building collections of reusable assets
-- Help speed up production of background and foreground rock elements
-- Support BlenderKit-style asset preparation workflows
-
-### Creative iteration
-
-- Generate multiple rock options for comparison
-- Test different forms quickly
-- Test different placement arrangements quickly
-- Refine assets based on scene needs
-- Support faster art direction decisions
-- Help users move from idea to usable asset faster
-
-### Transparency
-
-- Source-based add-on
-- No obfuscation
-- No binary-only content
-- No external services required
-- No account requirements
+- Build tab
+- Form tab
+- Settings tab
+- Optional Add > Mesh menu entry
+- Sidebar category rename
+- Preferences integration
 
 </details>
 
