@@ -136,13 +136,12 @@ Recommended size: 1280x720 or 960x540.
 <div align="center">
 
 | Rock Studio Settings | Generated Rock Pattern Preview |
-|---|---|
+|:---:|:---:|
 | <img height="420" alt="Rock Studio Settings" src="docs/media/ScreenShot_03.png" /> | <img height="420" alt="Generated Rock Pattern Preview" src="docs/media/ScreenShot_04.png" /> |
 
 </div>
 
 </details>
-
 
 <!--
 ### Visual preview
