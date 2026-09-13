@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
   <img width="680" alt="DRH - Rock Studio banner" src="docs/media/Logo.png" />
 </div>
 
@@ -31,7 +31,7 @@
 
 **DRH - Rock Studio** helps Blender users generate procedural rock assets as Mesh objects or Geometry Nodes setups, then arrange them using predefined 2D and 3D placement patterns.
 
-This repository is the central public hub for support, documentation, issue tracking, compatibility feedback, and compatibility feedback and future development updates while active development is on hold.
+This repository is the central public hub for support, documentation, issue tracking, compatibility feedback and future development updates while active development is on hold.
 
 </div>
 
@@ -97,35 +97,6 @@ Instead of modeling every rock manually from scratch or arranging assets one by 
 </div>
 -->
 
-<!--
-
----
-
-### Demo video
-
-Replace `YOUTUBE_VIDEO_ID` with your real YouTube video ID.
-
-Example:
-https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID" target="_blank">
-    <img width="720" alt="DRH - Rock Studio demo video" src="https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/maxresdefault.jpg" />
-  </a>
-  <br>
-  <sub>Click the image to watch the demo on YouTube.</sub>
-</div>
--->
-
-<!--
-### Quick demo GIF
-
-Recommended size: 1280x720 or 960x540.
-
-<div align="center">
-  <img width="720" alt="DRH - Rock Studio quick demo" src="docs/media/rock-studio-demo.gif" />
-</div>
--->
 
 ### Screenshots
 
@@ -151,25 +122,7 @@ Recommended size: 1280x720 or 960x540.
 
 </details>
 
-<!--
-### Visual preview
 
-Use this section if you want one large image instead of a gallery.
-
-<div align="center">
-  <img width="760" alt="DRH - Rock Studio preview" src="docs/media/rock-studio-preview.png" />
-</div>
--->
-
-<!--
-Temporary placeholder while media is not available.
-
-<div align="center">
-
-Media preview coming soon.
-
-</div>
--->
 
 ---
 
@@ -191,7 +144,7 @@ Use it to:
 - Build environment props and terrain details
 - Reduce repetitive manual modeling and placement work
 - Create reusable rock variations for scenes
-- Support asset creation for games, renders, kitbashing, or Blendkit-style workflows
+- Support asset creation for games, renders, kitbashing, or BlendKit-style workflows
 
 ---
 
@@ -374,7 +327,7 @@ DRH - Rock Studio is designed for:
 - Geometry Nodes users
 - Scene builders
 - Kitbash creators
-- Blendkit creators
+- BlendKit creators
 - Natural environment artists
 - Stylized rendering artists
 - Technical artists
