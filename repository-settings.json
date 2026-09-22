@@ -1,5 +1,5 @@
 {
-  "description": "Support and documentation for DRH - Rock Studio, a procedural Mesh/Geometry Nodes rock toolkit currently in development.",
+  "description": "Documentation and support for DRH - Rock Studio, a procedural rock toolkit for Mesh and Geometry Nodes workflows.",
   "homepage": "https://github.com/pacosalasv/DRH_Rock_Studio-Support",
   "visibility": "public",
   "has_issues": true,
