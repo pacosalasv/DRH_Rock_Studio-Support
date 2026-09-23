@@ -1,37 +1,16 @@
 <div align="center">
-  <img width="680" alt="DRH - Rock Studio banner" src="docs/media/Logo.png" />
-</div>
 
-<br>
-
-<div align="center">
+<img width="860" alt="DRH - Rock Studio featured image" src="docs/media/Featured_Image.png" />
 
 # DRH - Rock Studio
 
-### Support · Documentation · Feedback · Development On-Hold
+**Procedural rock generation with Mesh and Geometry Nodes workflows, advanced distributions, and surface scatter tools**
 
-Procedural rock generation with Mesh and Geometry Nodes workflows, advanced distributions, and surface scatter tools.
+![Status](https://img.shields.io/badge/Status-Development%20On%20Hold-7C3AED?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-1.0.0-00B7FF?style=for-the-badge)
+![Blender](https://img.shields.io/badge/Blender-4.2%2B-0B1F4D?style=for-the-badge)
 
-![Status](https://img.shields.io/badge/status-In%20Development%20%5BOn-Hold%5D-7C3AED?style=for-the-badge)
-![Version](https://img.shields.io/badge/version-1.0.0-00B7FF?style=for-the-badge)
-![Blender](https://img.shields.io/badge/blender-4.2%2B-0B1F4D?style=for-the-badge)
-![Platforms](https://img.shields.io/badge/platforms-Windows%20%7C%20macOS%20%7C%20Linux-EAF2FF?style=for-the-badge&labelColor=0B1F4D&color=EAF2FF)
-
-<br>
-
-DRH Blender Tools: support, documentation, and release information.
-
-[![DRH Add-ons Hub](https://img.shields.io/badge/DRH%20Add--ons%20Hub-Visit%20Hub-1E5BFF?style=for-the-badge&labelColor=0B1F4D)](https://github.com/pacosalasv/DRH_Addons_Hub)
-
-</div>
-
----
-
-<div align="center">
-
-DRH - Rock Studio helps Blender users generate procedural rock assets as Mesh objects or Geometry Nodes setups, then arrange them using predefined 2D and 3D placement patterns.
-
-This repository tracks documentation, support, compatibility reports, and development notes while active development is on hold.
+[![Support](https://img.shields.io/badge/Support-Issues%20%26%20Discussions-1E5BFF?style=for-the-badge)](https://github.com/pacosalasv/DRH_Rock_Studio-Support/issues) [![DRH Add-ons Hub](https://img.shields.io/badge/DRH%20Add--ons%20Hub-Visit-334155?style=for-the-badge)](https://github.com/pacosalasv/DRH_Addons_Hub)
 
 </div>
 
@@ -43,84 +22,37 @@ DRH - Rock Studio is a Blender workflow utility designed to help users create pr
 
 It is intended for environment artists, asset creators, game artists, procedural artists, scene builders, and Blender users who need rock forms for natural scenes, terrains, props, kitbashing, scattering layouts, or visual development.
 
-Instead of modeling every rock manually from scratch or arranging assets one by one, DRH - Rock Studio helps turn rock creation and placement into a faster, more adjustable, and repeatable workflow.
+## Product status
 
-## Media preview
-
-<!--
-<div align="center">
-  <img width="920" alt="DRH - Color Ramp Studio feature preview showing palette generation, native editable conversion, curated presets, and precision editing tools" src="docs/media/Featured_Image.png" />
-</div>
--->
-
-### Screenshots
-
-<div align="center">
-
-| Rock Generation and Placement | Shape and Surface Controls |
+| Item | Details |
 |---|---|
-| <img height="420" alt="Rock Generation and Placement" src="docs/media/ScreenShot_01.png" /> | <img height="420" alt="Shape and Surface Controls" src="docs/media/ScreenShot_02.png" /> |
+| Status | **Development On Hold** |
+| Version | 1.0.0 |
+| Blender | 4.2+ |
+| Platforms | Windows, macOS, Linux |
+| Availability | Development is currently on hold; no public download is promoted from this repository. |
+| Distribution | Support, documentation, and development history. |
+| Repository role | Documentation, support, issue tracking, compatibility feedback, and product feedback |
 
-</div>
+The repository remains available for documentation and feedback while active development is paused.
+
+## Capabilities
+
+| Capability |
+|---|
+| Procedural rock generation with Mesh and Geometry Nodes workflows, advanced distributions, and surface scatter tools |
+
+## Media
+
+| Preview | Preview |
+|---|---|
+| <img width="420" alt="DRH - Rock Studio Screenshot 1" src="docs/media/ScreenShot_01.png" /> | <img width="420" alt="DRH - Rock Studio Screenshot 2" src="docs/media/ScreenShot_02.png" /> |
+| <img width="420" alt="DRH - Rock Studio Screenshot 3" src="docs/media/ScreenShot_03.png" /> | <img width="420" alt="DRH - Rock Studio Screenshot 4" src="docs/media/ScreenShot_04.png" /> |
+
+## Product reference
 
 <details>
-
-  <summary><strong>More Screenshots...</strong></summary>
-
-<div align="center">
-
-| Rock Studio Settings | Generated Rock Pattern Preview |
-|:---:|:---:|
-| <img height="420" alt="Rock Studio Settings" src="docs/media/ScreenShot_03.png" /> | <img height="420" alt="Generated Rock Pattern Preview" src="docs/media/ScreenShot_04.png" /> |
-
-</div>
-
-</details>
-
-
----
-
-## What DRH - Rock Studio does
-
-DRH - Rock Studio helps you create, configure, and arrange rock assets directly inside Blender.
-
-It is not only a simple object preset tool. It is designed as a workflow helper for generating rock forms, choosing between Mesh or Geometry Nodes output, creating variations, and placing rock arrangements using predefined 2D and 3D layouts.
-
-Use it to:
-
-| Details |
-|---|
-| Generate rock assets faster |
-| Create rocks as Mesh objects |
-| Create rocks as Geometry Nodes setups |
-| Build natural-looking shape variations |
-| Use predefined 2D placement arrangements |
-| Use predefined 3D placement arrangements |
-| Explore procedural rock forms |
-| Build environment props and terrain details |
-| Reduce repetitive manual modeling and placement work |
-| Create reusable rock variations for scenes |
-| Support asset creation for games, renders, kitbashing, or BlendKit-style workflows |
-
----
-
-### Capabilities
-
-| Details |
-|---|
-| Generate procedural rocks as Mesh or Geometry Nodes assets |
-| Massive placement system with 2D, 3D, and on-surface scatter workflows |
-| Ready-made rock presets for rapid environment production |
-| Procedural variation controls for more natural and less repetitive sets |
-| Surface scatter and drop tools for faster scene dressing |
-| Auto Apply and manual Apply Changes workflow for heavy rebuild safety |
-| User preset storage on disk and inside the blend file |
-| LOD and preview density controls to balance speed and detail |
-
----
-
-<details>
-  <summary>Feature reference</summary>
+<summary>Open detailed feature reference</summary>
 
 ## Feature reference
 
@@ -279,110 +211,39 @@ Use it to:
 
 </details>
 
----
+## Documentation and support
 
-## Intended users
-
-DRH - Rock Studio is designed for:
-
-| Details |
-|---|
-| Environment artists |
-| Blender asset creators |
-| Game artists |
-| Procedural artists |
-| Geometry Nodes users |
-| Scene builders |
-| Kitbash creators |
-| BlendKit creators |
-| Natural environment artists |
-| Stylized rendering artists |
-| Technical artists |
-| Users who need reusable rock assets, variations, placement presets, or environment props |
-
----
-
-## Status
-
-| Item | Details |
+| Resource | Link |
 |---|---|
-| Status | 🟣 In Development [On-Hold] |
-| Current version | 1.0.0 |
-| Minimum Blender version | 4.2.0 |
-| Platforms | Windows, macOS, Linux |
-| Release type | In development before public marketplace release |
-| Support repository | [DRH Rock Studio Support](https://github.com/pacosalasv/DRH_Rock_Studio-Support) |
+| User manual | [User manual](docs/manual/user-manual.pdf) |
+| Support guide | [Support guide](SUPPORT.md) |
+| Manual changelog | [Manual changelog](docs/manual/manual-changelog.md) |
+| Product changelog | [Product changelog](CHANGELOG.md) |
+| GitHub Discussions | [GitHub Discussions](https://github.com/pacosalasv/DRH_Rock_Studio-Support/discussions) |
+| GitHub Issues | [GitHub Issues](https://github.com/pacosalasv/DRH_Rock_Studio-Support/issues/new/choose) |
 
-This add-on is currently in development. Compatibility feedback, usability comments, feature expectations, and workflow suggestions are welcome before public release.
+Use **Discussions** for questions, setup help, workflow guidance, and general feedback. Use **Issues** for reproducible bugs, regressions, compatibility problems, documentation errors, and focused feature requests.
 
----
-
-## Technical notes
-
-This add-on is source based, with:
-
-- No obfuscation
-- No binary-only content
-- No external services
-- No account requirements
-
-Local system access may be used only for normal Blender workflows such as saving files, loading assets, exporting data, or using project resources when applicable.
-
-The add-on is intended to work locally inside Blender.
-
----
-
-## Availability
-
-This add-on may be available through multiple marketplaces and storefronts after release.
-
-This GitHub repository remains the central public location for:
-
-| Details |
-|---|
-| Support |
-| Documentation |
-| Issue tracking |
-| Compatibility reports |
-| Public feedback |
-| Release notes |
-
----
-
-## Documentation
-
-- [User manual](docs/manual/user-manual.pdf)
-- [Manual changelog](docs/manual/manual-changelog.md)
-- [Product changelog](CHANGELOG.md)
-- [Support guide](SUPPORT.md)
-
-## Support
-
-Use [GitHub Discussions](https://github.com/pacosalasv/DRH_Rock_Studio-Support/discussions) for setup questions, workflow guidance, usage help, and general feedback. Use [GitHub Issues](https://github.com/pacosalasv/DRH_Rock_Studio-Support/issues/new/choose) for reproducible bugs, regressions, compatibility problems, and focused feature requests.
-
-See [SUPPORT.md](SUPPORT.md) for the shared DRH support format, the information to include in a report, and public-information guidance.
+Before posting, review [SUPPORT.md](SUPPORT.md) for the shared DRH support format and public-information guidance.
 
 ## Support DRH development
 
-DRH development support is optional. Ko-fi contributions help cover maintenance, Blender compatibility work, documentation, testing, and continued development of free tools.
+If this project or another free DRH tool saves you time, optional Ko-fi support helps fund maintenance, Blender compatibility work, documentation, testing, and continued development.
 
 <div align="center">
   <a href="https://ko-fi.com/pacosalasv">
-    <img width="520" alt="Support DRH development on Ko-fi" src="docs/media/kofi_donate.png" />
+    <img width="620" alt="Support Paco Salas | DRH on Ko-fi" src="docs/media/SupportMe.png" />
   </a>
 </div>
 
-## Ecosystem links
+## DRH ecosystem
 
-- [DRH Add-ons Hub](https://github.com/pacosalasv/DRH_Addons_Hub)
-- [DRH catalog on BlendKit](https://www.blendkit.com/?query=author_id:205846)
-- [Paco Salas | DRH on GitHub](https://github.com/pacosalasv)
-- [Ko-fi](https://ko-fi.com/pacosalasv)
+| Destination | Link |
+|---|---|
+| DRH Add-ons Hub | [Catalog, roadmap, and product status](https://github.com/pacosalasv/DRH_Addons_Hub) |
+| Paco Salas \| DRH | [GitHub profile](https://github.com/pacosalasv) |
+| Support development | [Ko-fi](https://ko-fi.com/pacosalasv) |
 
 ## License
 
-This repository is distributed under GPL-3.0-or-later. See [LICENSE](LICENSE).
-
----
-
-Authored by Paco Salas | DRH.
+See [LICENSE](LICENSE) for repository licensing terms.
