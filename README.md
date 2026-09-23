@@ -20,43 +20,18 @@ DRH - Rock Studio is a Blender workflow utility designed to help users create pr
 
 It is intended for environment artists, asset creators, game artists, procedural artists, scene builders, and Blender users who need rock forms for natural scenes, terrains, props, kitbashing, scattering layouts, or visual development.
 
-## Product status
-
-| Item | Details |
-|---|---|
-| Status | **Development On Hold** |
-| Version | 1.0.0 |
-| Blender | 4.2+ |
-| Platforms | Windows, macOS, Linux |
-| Availability | Development is currently on hold; no public download is promoted from this repository. |
-| Distribution | Support, documentation, and development history. |
-| Repository role | Documentation, support, issue tracking, compatibility feedback, and product feedback |
-
-The repository remains available for documentation and feedback while active development is paused.
-
-## Capabilities
+## Key features
 
 | Capability |
 |---|
 | Procedural rock generation with Mesh and Geometry Nodes workflows, advanced distributions, and surface scatter tools |
 
-## Media
-
-Primary product screenshots are shown below. Additional screenshots, when present, remain in `docs/media/`.
-
-<div align="center">
-  <img width="420" alt="DRH - Rock Studio ScreenShot 01" src="docs/media/ScreenShot_01.png" />
-  <img width="420" alt="DRH - Rock Studio ScreenShot 02" src="docs/media/ScreenShot_02.png" />
-  <img width="420" alt="DRH - Rock Studio ScreenShot 03" src="docs/media/ScreenShot_03.png" />
-  <img width="420" alt="DRH - Rock Studio ScreenShot 04" src="docs/media/ScreenShot_04.png" />
-</div>
-
-## Product reference
+## Detailed features
 
 <details>
-<summary>Open detailed feature reference</summary>
+<summary>Open detailed features</summary>
 
-### Feature reference
+### Feature details
 
 #### Generation modes
 | Details |
@@ -213,6 +188,31 @@ Primary product screenshots are shown below. Additional screenshots, when presen
 
 </details>
 
+## Product status
+
+| Item | Details |
+|---|---|
+| Status | **Development On Hold** |
+| Version | 1.0.0 |
+| Blender | 4.2+ |
+| Platforms | Windows, macOS, Linux |
+| Availability | Development is currently on hold; no public download is promoted from this repository. |
+| Distribution | Support, documentation, and development history. |
+| Repository role | Documentation, support, issue tracking, compatibility feedback, and product feedback |
+
+The repository remains available for documentation and feedback while active development is paused.
+
+## Media
+
+Product screenshots:
+
+<div align="center">
+  <img width="420" alt="DRH - Rock Studio ScreenShot 01" src="docs/media/ScreenShot_01.png" />
+  <img width="420" alt="DRH - Rock Studio ScreenShot 02" src="docs/media/ScreenShot_02.png" />
+  <img width="420" alt="DRH - Rock Studio ScreenShot 03" src="docs/media/ScreenShot_03.png" />
+  <img width="420" alt="DRH - Rock Studio ScreenShot 04" src="docs/media/ScreenShot_04.png" />
+</div>
+
 ## Documentation and support
 
 | Resource | Link |
@@ -238,7 +238,8 @@ Ko-fi support is optional. Contributions help fund maintenance, Blender compatib
 | Destination | Link |
 |---|---|
 | DRH Add-ons Hub | [Catalog and roadmap](https://github.com/pacosalasv/DRH_Addons_Hub) |
-| Paco Salas | DRH | [GitHub profile](https://github.com/pacosalasv) |
+| Paco Salas | DRH | [Official site](https://pacosalasv.blogspot.com/) |
+| BlendKit | [DRH Blender downloads](https://www.blendkit.com/?query=author_id:205846) |
 | Ko-fi | [Support development](https://ko-fi.com/pacosalasv) |
 
 ## License
