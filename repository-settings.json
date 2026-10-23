@@ -1,0 +1,17 @@
+{
+  "description": "Documentation and support for DRH - Rock Studio, a procedural rock toolkit for Mesh and Geometry Nodes workflows.",
+  "homepage": "https://github.com/pacosalasv/DRH_Rock_Studio-Support",
+  "visibility": "public",
+  "has_issues": true,
+  "has_discussions": true,
+  "topics": [
+    "blender",
+    "blender-addon",
+    "procedural-rocks",
+    "geometry-nodes",
+    "environment-art",
+    "procedural-modeling",
+    "technical-support",
+    "drh"
+  ]
+}
